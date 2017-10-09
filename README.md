@@ -4,6 +4,7 @@ Apiary CLI Client
 [Apiary](https://apiary.io) CLI client, `apiary`.
 
 [![Build Status](https://travis-ci.org/apiaryio/apiary-client.png?branch=master)](https://travis-ci.org/apiaryio/apiary-client) [![Build status](https://ci.appveyor.com/api/projects/status/0hmkivbnhf9p3f8d/branch/master?svg=true)](https://ci.appveyor.com/project/Apiary/apiary-client/branch/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fapiary-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fapiary-client?ref=badge_shield)
 
 ## Description
 
@@ -185,3 +186,6 @@ Copyright 2012-17 (c) Apiary Ltd.
 
 Released under MIT license.
 See [LICENSE](https://raw.githubusercontent.com/apiaryio/apiary-client/master/LICENSE) file for further details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fapiary-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fapiary-client?ref=badge_large)
